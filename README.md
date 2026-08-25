@@ -1,5 +1,7 @@
 # SadServers Troubleshooting Journal
 
+[![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=flat-square&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/u/Isidro+Sunga+Lim)
+
 ## Overview
 
 This repository documents my hands-on troubleshooting practice using SadServers.
